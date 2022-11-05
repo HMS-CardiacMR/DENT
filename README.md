@@ -1,2 +1,7 @@
+<img src='videos/video_6.gif' align="right" width=440>
+
+<br><br><br><br><br><br>
+
 # DENT
-Deformation ENcoding Transformer (DENT) for High-Frame-Rate Cardiac MR
+
+**DENT: Deformation ENcoding Transformer**  
