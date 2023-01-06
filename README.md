@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-|   TR= 50 – 90 ms    | DENT Two-Folds  | TR= 25 – 45 ms   | 
+|   TR = 50 – 90 ms    | DENT Two-Fold  | TR= 25 – 45 ms   | 
 | ------------------- | --------------- | ---------------- | 
 
 <br />
@@ -23,7 +23,7 @@ External testing of DENT rate 2 on 4-chamber cines with temporal resolution spac
 
 <br>
 
-|   TR= 100–180 ms    | DENT Two-Folds  | TR= 50 – 90 ms   | 
+|   TR = 100 – 180 ms    | DENT Two-Fold  | TR= 50 – 90 ms   | 
 | ------------------- | --------------- | ---------------- | 
 
 <br />
