@@ -13,7 +13,8 @@
 
 <br>
 
-External testing of DENT rate 2 on 4-chamber cines with temporal resolution spacing of 50 – 90 ms. First column, input cine whose original frame rate was reduced by half. Second column, DENT-interpolate cine using rate 2. Third column, original cine. Cines are shown across multiple vendors (rows 1 – 3).
+50-90 ms Input 			DENT-Interpolated 		Ground-Truth
+External testing of DENT rate 2 on 4-chamber cines with temporal resolution spacing of 50 – 90 ms. First column, input cine whose original frame rate was reduced by half. Second column, DENT-interpolated cine using rate 2. Third column, original cine. Cines are shown across multiple vendors (rows 1 – 3).
 
 <br>
 
