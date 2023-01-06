@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-|   Low-Frame-Rate    | DENT Two-Folds  | Ground-Truth     | 
+|   TR= 50 – 90 ms    | DENT Two-Folds  | TR= 25 – 45 ms     | 
 | ------------------- | --------------- | ---------------- | 
 
 <br />
