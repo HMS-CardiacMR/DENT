@@ -9,7 +9,8 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-DENT-Interpolated &nbsp Ground-Truth
+| Linear Regression Slope | GRS               | GCS               | 
+| ----------------------- | ----------------- | ----------------- | 
 
 <br />
 
