@@ -9,13 +9,15 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
+DENT-Interpolated...........nGround-Truth
+
+<br />
+
 <img src='videos/video_1_2_fold_4CH.gif' align="center" width=440>
 
 <br>
 
-LowDENT-Interpolated 		Ground-Truth
 
-<br />
 External testing of DENT rate 2 on 4-chamber cines with temporal resolution spacing of 50 – 90 ms. First column, input cine whose original frame rate was reduced by half. Second column, DENT-interpolated cine using rate 2. Third column, original cine. Cines are shown across multiple vendors (rows 1 – 3).
 
 <br>
