@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-|     Resolution 50–90 ms     | DENT-Interpolated  | Ground-Truth     | 
+|   Low-Frame-Rate    | DENT-Interpolated  | Ground-Truth     | 
 | ----------------------- | ----------------- | ----------------- | 
 
 
