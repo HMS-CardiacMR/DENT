@@ -9,8 +9,11 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-| Linear Regression Slope | GRS               | GCS               | 
+| Resolution = 50 – 90 ms. | DENT-Interpolated  | Ground-Truth     | 
 | ----------------------- | ----------------- | ----------------- | 
+
+
+DENT-Interpolated Ground-Truth
 
 <br />
 
