@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-|   Low-Frame-Rate    | DENT Two-Fold  | Ground-Truth     | 
+|   Low-Frame-Rate    | DENT  Two-Fold  | Ground-Truth     | 
 | ----------------------- | ----------------- | ----------------- | 
 
 <br />
