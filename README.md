@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-DENT-Interpolated...........nGround-Truth
+DENT-Interpolated &nbsp Ground-Truth
 
 <br />
 
