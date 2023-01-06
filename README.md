@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-|   TR= 50 – 90 ms    | DENT Two-Folds  | TR= 25 – 45 ms     | 
+|   TR= 50 – 90 ms    | DENT Two-Folds  | TR= 25 – 45 ms   | 
 | ------------------- | --------------- | ---------------- | 
 
 <br />
@@ -22,6 +22,11 @@
 External testing of DENT rate 2 on 4-chamber cines with temporal resolution spacing of 50 – 90 ms. First column, input cine whose original frame rate was reduced by half. Second column, DENT-interpolated cine using rate 2. Third column, original cine. Cines are shown across multiple vendors (rows 1 – 3).
 
 <br>
+
+|   TR= 100–180 ms    | DENT Two-Folds  | TR= 50 – 90 ms   | 
+| ------------------- | --------------- | ---------------- | 
+
+<br />
 
 <img src='videos/video_3_4_fold_4CH.gif' align="center" width=440>
 
