@@ -9,7 +9,7 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
-<br><br><br><br><br><br>
+<br
 
 <img src='videos/video_1_2_fold_4CH.gif' align="center" width=440>
 
