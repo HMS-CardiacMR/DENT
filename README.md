@@ -9,6 +9,20 @@
 
 - DENT is currently under review. The trained model will be released upon the manuscript being accepted. 
 
+
+## Packages
+The following pakages are required to run the code:
+* python==3.7.6
+* pytorch==1.5.1
+* cudatoolkit==10.1
+* torchvision==0.6.1
+* cupy==7.5.0
+* pillow==8.2.0
+* einops==0.3.0
+
+
+
+
 |   TR = 50 – 90 ms    | DENT Two-Fold  | TR = 25 – 45 ms   | 
 | ------------------- | --------------- | ---------------- | 
 
