@@ -16,7 +16,9 @@ def load_sample_dicom():
     import glob 
     import pydicom 
     
-    dicom_paths = sorted(glob.glob('./dicoms/Dorval_Ashley_034Y/series7001-Body/*'))
+    dicom_folder_sample = './dicoms/SAMPLE_SUBJECT/series7001-Body/*'
+
+    dicom_paths = sorted(glob.glob(dicom_folder_sample))
 
     dicoms = [pydicom.read_file(dicom_path) for dicom_path in dicom_paths]
 
